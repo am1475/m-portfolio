@@ -62,7 +62,7 @@ export function StickyScrollRevealDemo() {
           </p>
           <div className="flex justify-center">
             <a
-              href="https://drive.google.com/file/d/1Ae7fuOHfhvdXHs4OrPsqByxxzm3uJdJ2/view?usp=sharing"
+              href="https://drive.google.com/file/d/19oaQ7W2n3HnLyNELQge_BHLU8c0K2Hsy/view?usp=sharing"
               download="Ash_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
